@@ -28,21 +28,15 @@ Login
 4. '/' becomes a log in page
     1. 2.2.route - listing is automatically is added to currently logged in user
     2. 3.1. 3.2. becomes active only to specific profile and profile listings
-
-**#5th MVP**
-Admin
-
-5. 'Godmode'
-    1. as if 4.1. and 4.2. wouldn't be there
   
-**#6th MVP**
+**#5th MVP**
 Filter(might move up to 4th MVP)
 
 6. Add filter option to item list view
    1. Ways to achieve this - checkboxes/dropdowns
    2. Ways to translate that information further to DB
   
-**#7th MVP**
+**#6th MVP**
 Buy
   
 7. Removes item from listing and moves it to buyers profile
